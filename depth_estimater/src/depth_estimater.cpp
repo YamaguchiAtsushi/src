@@ -3,8 +3,8 @@
 #include <cv_bridge/cv_bridge.h>
 #include <opencv2/opencv.hpp>
 
-#define WIDTH   20
-#define HEIGHT  15
+#define WIDTH   50
+#define HEIGHT  25
 
 class depth_estimater{
 public:
